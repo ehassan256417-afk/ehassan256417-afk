@@ -1,16 +1,120 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ehassan256417-afk/ehassan256417-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey there! I'm Hassan 👋
 
-Here are some ideas to get you started:
+### Frontend Developer | Web App Builder | CIS Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub followers](https://img.shields.io/github/followers/ehassan256417-afk?style=social)](https://github.com/ehassan256417-afk)
+[![GitHub stars](https://img.shields.io/github/stars/ehassan256417-afk?affiliations=OWNER&style=social)](https://github.com/ehassan256417-afk)
+
+*Building clean, accessible, and interactive web experiences — one project at a time.*
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 Currently studying **CIS (Computer Information Systems)** with a focus on frontend web development
+- - 🔨 I love turning ideas into polished, responsive websites using **HTML, CSS, JavaScript & Bootstrap**
+  - - 🌱 Always learning — currently diving deeper into **ES Modules, Web APIs, and AI integration**
+    - - ⚡ Fun fact: I hide easter eggs in my projects — try typing `unlockSecret()` in the console of my memory game!
+     
+      - ---
+
+      ## 🛠️ Tech Stack
+
+      <div align="center">
+
+      ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+      ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+      ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+      ![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+      ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+      ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+      ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
+
+      </div>
+
+      ---
+
+      ## 🚀 Featured Projects
+
+      ### 🎴 [Emoji Memory Match](https://github.com/ehassan256417-afk/emoji-memory-match)
+      > A fun, fully accessible card-matching game built with vanilla JavaScript and Bootstrap 5.
+      >
+      > - 🎮 Three difficulty levels (Easy / Medium / Hard)
+      > - - 🏆 Persistent high scores with `localStorage`
+      >   - - ♿ Full ARIA support, keyboard navigation & WCAG AA contrast
+      >     - - 🔀 Fisher-Yates shuffle algorithm for truly random card layouts
+      >       - - 🌈 Hidden easter egg — open the console and try `unlockSecret()`!
+      >        
+      >         - 🔗 **[Play the Live Demo →](https://ehassan256417-afk.github.io/emoji-memory-match/)**
+      >        
+      >         - ---
+      >
+      > ### 📚 [Frontend Learning Hub](https://github.com/ehassan256417-afk/CIS-376-MID-TERM-PROJECT)
+      > > A curated resource hub for learning frontend development — featuring search, filtering, sorting, and session-based authentication.
+      > >
+      > > - 🔍 Real-time search bar for instant topic lookup
+      > > - - 🏷️ Category filtering + sort by rating or title
+      > >   - - 🔐 Session-based login with `sessionStorage` authentication
+      > >     - - 📱 Fully responsive with Bootstrap 5 grid/list toggle views
+      > >      
+      > >       - 🔗 **[Explore the App →](https://ehassan256417-afk.github.io/CIS-376-MID-TERM-PROJECT/)**
+      > >      
+      > >       - ---
+      > >
+      > > ### 🤖 [Smart AI Chat](https://github.com/ehassan256417-afk/tst-ai)
+      > > > A real AI-powered chat app using the OpenAI Responses API with optional web search — built with Node.js.
+      > > >
+      > > > - 💬 Natural conversation powered by OpenAI
+      > > > - - 🌐 Toggle real-time web search on/off
+      > > >   - - 🔒 Secure server-side API key handling
+      > > >     - - ⚙️ Built with Node.js + Express backend
+      > > >      
+      > > >       - ---
+      > > >
+      > > > ### 🎮 [Game Score Tracker](https://github.com/ehassan256417-afk/game-score)
+      > > > > A modular front-end app using JavaScript ES Modules to record and manage player scores with session storage.
+      > > > >
+      > > > > - 📦 Clean module architecture (controllers, modules, config)
+      > > > > - - 💾 Session storage for real-time score tracking
+      > > > >   - - 🏅 Leaderboard and high score management
+      > > > >     - - 🧩 Separation of concerns: HTML → Controller → Modules
+      > > > >      
+      > > > >       - ---
+      > > > >
+      > > > > ## 📊 GitHub Stats
+      > > > >
+      > > > > <div align="center">
+
+      ![Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ehassan256417-afk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ehassan256417-afk&layout=compact&theme=tokyonight&hide_border=true)
+
+      ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ehassan256417-afk&theme=tokyonight&hide_border=true)
+
+      </div>
+
+      ---
+
+      ## 🤝 Let's Connect
+
+      <div align="center">
+
+      📧 **ehassan256417@gmail.com**
+
+      💻 Check out my repositories below and feel free to star ⭐ anything you find useful!
+
+      </div>
+
+      ---
+
+      <div align="center">
+
+      *"First, solve the problem. Then, write the code."* — John Johnson
+
+      ![Profile Views](https://komarev.com/ghpvc/?username=ehassan256417-afk&color=blue&style=flat-square)
+
+      </div>
