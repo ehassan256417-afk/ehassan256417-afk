@@ -64,26 +64,7 @@
       > >       - 🔗 **[Explore the App →](https://ehassan256417-afk.github.io/CIS-376-MID-TERM-PROJECT/)**
       > >      
       > >       - ---
-      > >
-      > > ### 🤖 [Smart AI Chat](https://github.com/ehassan256417-afk/tst-ai)
-      > > > A real AI-powered chat app using the OpenAI Responses API with optional web search — built with Node.js.
-      > > >
-      > > > - 💬 Natural conversation powered by OpenAI
-      > > > - - 🌐 Toggle real-time web search on/off
-      > > >   - - 🔒 Secure server-side API key handling
-      > > >     - - ⚙️ Built with Node.js + Express backend
-      > > >      
-      > > >       - ---
-      > > >
-      > > > ### 🎮 [Game Score Tracker](https://github.com/ehassan256417-afk/game-score)
-      > > > > A modular front-end app using JavaScript ES Modules to record and manage player scores with session storage.
-      > > > >
-      > > > > - 📦 Clean module architecture (controllers, modules, config)
-      > > > > - - 💾 Session storage for real-time score tracking
-      > > > >   - - 🏅 Leaderboard and high score management
-      > > > >     - - 🧩 Separation of concerns: HTML → Controller → Modules
-      > > > >      
-      > > > >       - ---
+      > 
       > > > >
       > > > > ## 📊 GitHub Stats
       > > > >
