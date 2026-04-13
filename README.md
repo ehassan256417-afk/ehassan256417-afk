@@ -65,18 +65,7 @@
       > >      
       > >       - ---
       > 
-      > > > >
-      > > > > ## 📊 GitHub Stats
-      > > > >
-      > > > > <div align="center">
-
-      ![Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ehassan256417-afk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ehassan256417-afk&layout=compact&theme=tokyonight&hide_border=true)
-
-      ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ehassan256417-afk&theme=tokyonight&hide_border=true)
-
-      </div>
+    
 
       ---
 
