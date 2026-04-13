@@ -2,7 +2,7 @@
 
 # Hey there! I'm Hassan 👋
 
-### Frontend Developer | Web App Builder | CIS Student
+### Frontend Developer | Web App Builder | IT Student
 
 [![GitHub followers](https://img.shields.io/github/followers/ehassan256417-afk?style=social)](https://github.com/ehassan256417-afk)
 [![GitHub stars](https://img.shields.io/github/stars/ehassan256417-afk?affiliations=OWNER&style=social)](https://github.com/ehassan256417-afk)
