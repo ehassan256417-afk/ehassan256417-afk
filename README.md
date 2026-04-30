@@ -1,5 +1,3 @@
-&lt;div align="center"&gt;
-
 # Hey there! I'm Hassan 👋
 
 ### Frontend Developer | Web App Builder | IT Student
@@ -8,8 +6,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/ehassan256417-afk?affiliations=OWNER&style=social)](https://github.com/ehassan256417-afk)
 
 *Building clean, accessible, and interactive web experiences — one project at a time.*
-
-&lt;/div&gt;
 
 ---
 
