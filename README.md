@@ -83,14 +83,13 @@
 
 ## 🤝 Let's Connect
 
-&lt;div align="center"&gt;
+💼 LinkedIn: [Hassan Alnabres](https://www.linkedin.com/in/hassan-alnabres-a6063210b/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hassan%20Alnabres-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-alnabres-a6063210b/)
-📧 **ehassan256417@gmail.com**
+📧 Email: [ehassan256417@gmail.com](mailto:ehassan256417@gmail.com)
+
+🌐 GitHub: [@ehassan256417-afk](https://github.com/ehassan256417-afk)
 
 💻 Check out my repositories below and feel free to star ⭐ anything you find useful!
-
-&lt;/div&gt;
 
 ---
 
