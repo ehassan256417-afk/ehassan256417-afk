@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hey there! I'm Hassan 👋
 
 ### Frontend Developer | Web App Builder | IT Student
@@ -6,6 +8,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/ehassan256417-afk?affiliations=OWNER&style=social)](https://github.com/ehassan256417-afk)
 
 *Building clean, accessible, and interactive web experiences — one project at a time.*
+
+&lt;/div&gt;
 
 ---
 
@@ -79,13 +83,14 @@
 
 ## 🤝 Let's Connect
 
-💼 LinkedIn: [Hassan Alnabres](https://www.linkedin.com/in/hassan-alnabres-a6063210b/)
+&lt;div align="center"&gt;
 
-📧 Email: [ehassan256417@gmail.com](mailto:ehassan256417@gmail.com)
-
-🌐 GitHub: [@ehassan256417-afk](https://github.com/ehassan256417-afk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hassan%20Alnabres-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-alnabres-a6063210b/)
+📧 **ehassan256417@gmail.com**
 
 💻 Check out my repositories below and feel free to star ⭐ anything you find useful!
+
+&lt;/div&gt;
 
 ---
 
